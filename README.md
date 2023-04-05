@@ -225,7 +225,7 @@ Results on Pascal VOC 2007+2012 test
   </td>
  </tr>
 </tbody></table>
-<br />
+
 
 <table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
  mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt">
@@ -520,7 +520,7 @@ Results on Pascal VOC 2007+2012 test
   </td>
  </tr>
 </tbody></table>
-<br />
+
 
 <table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
  mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt">
@@ -741,7 +741,7 @@ Results on Pascal VOC 2007+2012 test
   </td>
  </tr>
 </tbody></table>
-<br />
+
 
 <table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
  mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt">
@@ -1324,7 +1324,7 @@ Results on COCO val
   </td>
  </tr>
 </tbody></table>
-<br />
+
 
 
 <table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
@@ -1503,7 +1503,7 @@ Results on COCO val
   </td>
  </tr>
 </tbody></table>
-<br />
+
 
 <table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
  mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt">
