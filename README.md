@@ -1,7 +1,8 @@
 # RAFConv
-this is for our paper
+This repository is a PyTorch implementation of our  paper:
 
-coming soon
+We will disclose the full code once the paper has been accepted
+
 
 ****
 ## Object detection
