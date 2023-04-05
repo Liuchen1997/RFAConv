@@ -23,7 +23,7 @@ We will disclose the full code once the paper has been accepted.
   <td width="90" valign="top" style="width:67.2pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
   solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal"><span class="SpellE"><span lang="EN-US" style="font-size:9.0pt">ParamsM</span></span><span lang="EN-US" style="font-size:9.0pt">)<o:p></o:p></span></p>
+  <p class="MsoNormal"><span class="SpellE"><span lang="EN-US" style="font-size:9.0pt">Params(M)</span></span><span lang="EN-US" style="font-size:9.0pt">)<o:p></o:p></span></p>
   </td>
   <td width="48" valign="top" style="width:36.0pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
@@ -270,7 +270,7 @@ We will disclose the full code once the paper has been accepted.
   <td width="90" valign="top" style="width:67.2pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
   solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal"><span class="SpellE"><span lang="EN-US" style="font-size:9.0pt">ParamsM</span></span><span lang="EN-US" style="font-size:9.0pt">)<o:p></o:p></span></p>
+  <p class="MsoNormal"><span class="SpellE"><span lang="EN-US" style="font-size:9.0pt">Params(M)</span></span><span lang="EN-US" style="font-size:9.0pt">)<o:p></o:p></span></p>
   </td>
   <td width="48" valign="top" style="width:36.0pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
