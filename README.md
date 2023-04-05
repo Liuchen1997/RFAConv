@@ -243,7 +243,7 @@ Results on Pascal VOC 2007+2012 test
   <td width="90" valign="top" style="width:67.2pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
   solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal"><span lang="EN-US" style="font-size:9.0pt">Params(%)<o:p></o:p></span></p>
+  <p class="MsoNormal"><span lang="EN-US" style="font-size:9.0pt">Params(M)<o:p></o:p></span></p>
   </td>
   <td width="47" valign="top" style="width:35.05pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
