@@ -1403,6 +1403,8 @@ Results on Pascal VOC 2007+2012 test
 <br />
 
 Results on COCO val
+<div class="WordSection1" style="layout-grid:15.6pt">
+
 <table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
  mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt">
  <tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes">
@@ -1418,37 +1420,37 @@ Results on COCO val
   <td width="90" valign="top" style="width:67.2pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
   solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal"><span lang="EN-US" style="font-size:9.0pt">Params(M)<o:p></o:p></span></p>
+  <p class="MsoNormal"><span lang="EN-US" style="font-size:9.0pt">Parameters(M)<o:p></o:p></span></p>
   </td>
   <td width="48" valign="top" style="width:36.0pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
   solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal"><span lang="EN-US" style="font-size:9.0pt">AP<sub>50</sub>(%)<o:p></o:p></span></p>
+  <p class="MsoNormal"><span lang="EN-US" style="font-size:9.0pt">AP<sub>50</sub><o:p></o:p></span></p>
   </td>
   <td width="48" valign="top" style="width:36.0pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
   solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal"><span lang="EN-US" style="font-size:9.0pt">AP<sub>75</sub>(%)<o:p></o:p></span></p>
+  <p class="MsoNormal"><span lang="EN-US" style="font-size:9.0pt">AP<sub>75</sub><o:p></o:p></span></p>
   </td>
   <td width="42" valign="top" style="width:31.25pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
   solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal"><span class="GramE"><span lang="EN-US" style="font-size:9.0pt">AP(</span></span><span lang="EN-US" style="font-size:9.0pt">%)<o:p></o:p></span></p>
+  <p class="MsoNormal"><span class="GramE"><span lang="EN-US" style="font-size:9.0pt">AP</span></span><span lang="EN-US" style="font-size:9.0pt"><o:p></o:p></span></p>
   </td>
   <td width="44" valign="top" style="width:33.1pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
   solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal"><span class="GramE"><span lang="EN-US" style="font-size:9.0pt">AP<sub>s</sub>(</span></span><span lang="EN-US" style="font-size:9.0pt">%)<o:p></o:p></span></p>
+  <p class="MsoNormal"><span lang="EN-US" style="font-size:9.0pt">AP<sub>s</sub><o:p></o:p></span></p>
   </td>
   <td width="47" valign="top" style="width:35.05pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
   solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal"><span class="SpellE"><span class="GramE"><span lang="EN-US" style="font-size:9.0pt">AP<sub>m</sub></span></span></span><span class="GramE"><span lang="EN-US" style="font-size:9.0pt">(</span></span><span lang="EN-US" style="font-size:9.0pt">%)<o:p></o:p></span></p>
+  <p class="MsoNormal"><span class="SpellE"><span lang="EN-US" style="font-size:9.0pt">AP<sub>m</sub></span></span><span lang="EN-US" style="font-size:9.0pt"><o:p></o:p></span></p>
   </td>
   <td width="43" valign="top" style="width:32.3pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
   solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal"><span class="SpellE"><span class="GramE"><span lang="EN-US" style="font-size:9.0pt">AP<sub>l</sub></span></span></span><span class="GramE"><span lang="EN-US" style="font-size:9.0pt">(</span></span><span lang="EN-US" style="font-size:9.0pt">%)<o:p></o:p></span></p>
+  <p class="MsoNormal"><span class="SpellE"><span lang="EN-US" style="font-size:9.0pt">AP<sub>l</sub></span></span><span lang="EN-US" style="font-size:9.0pt"><o:p></o:p></span></p>
   </td>
   <td width="37" valign="top" style="width:27.9pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
@@ -1763,7 +1765,7 @@ Results on COCO val
  </tr>
 </tbody></table>
 
-
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
 
 <table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
  mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt">
@@ -1780,37 +1782,37 @@ Results on COCO val
   <td width="90" valign="top" style="width:67.2pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
   solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal"><span lang="EN-US" style="font-size:9.0pt">Params(M)<o:p></o:p></span></p>
+  <p class="MsoNormal"><span lang="EN-US" style="font-size:9.0pt">Parameters(M)<o:p></o:p></span></p>
   </td>
   <td width="48" valign="top" style="width:36.0pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
   solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal"><span lang="EN-US" style="font-size:9.0pt">AP<sub>50</sub>(%)<o:p></o:p></span></p>
+  <p class="MsoNormal"><span lang="EN-US" style="font-size:9.0pt">AP<sub>50</sub><o:p></o:p></span></p>
   </td>
   <td width="48" valign="top" style="width:36.0pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
   solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal"><span lang="EN-US" style="font-size:9.0pt">AP<sub>75</sub>(%)<o:p></o:p></span></p>
+  <p class="MsoNormal"><span lang="EN-US" style="font-size:9.0pt">AP<sub>75</sub><o:p></o:p></span></p>
   </td>
   <td width="42" valign="top" style="width:31.25pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
   solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal"><span class="GramE"><span lang="EN-US" style="font-size:9.0pt">AP(</span></span><span lang="EN-US" style="font-size:9.0pt">%)<o:p></o:p></span></p>
+  <p class="MsoNormal"><span lang="EN-US" style="font-size:9.0pt">AP<o:p></o:p></span></p>
   </td>
   <td width="44" valign="top" style="width:33.1pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
   solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal"><span class="GramE"><span lang="EN-US" style="font-size:9.0pt">AP<sub>s</sub>(</span></span><span lang="EN-US" style="font-size:9.0pt">%)<o:p></o:p></span></p>
+  <p class="MsoNormal"><span lang="EN-US" style="font-size:9.0pt">AP<sub>s</sub><o:p></o:p></span></p>
   </td>
   <td width="47" valign="top" style="width:35.05pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
   solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal"><span class="SpellE"><span class="GramE"><span lang="EN-US" style="font-size:9.0pt">AP<sub>m</sub></span></span></span><span class="GramE"><span lang="EN-US" style="font-size:9.0pt">(</span></span><span lang="EN-US" style="font-size:9.0pt">%)<o:p></o:p></span></p>
+  <p class="MsoNormal"><span class="SpellE"><span lang="EN-US" style="font-size:9.0pt">AP<sub>m</sub></span></span><span lang="EN-US" style="font-size:9.0pt"><o:p></o:p></span></p>
   </td>
   <td width="43" valign="top" style="width:32.3pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
   solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal"><span class="SpellE"><span class="GramE"><span lang="EN-US" style="font-size:9.0pt">AP<sub>l</sub></span></span></span><span class="GramE"><span lang="EN-US" style="font-size:9.0pt">(</span></span><span lang="EN-US" style="font-size:9.0pt">%)<o:p></o:p></span></p>
+  <p class="MsoNormal"><span class="SpellE"><span lang="EN-US" style="font-size:9.0pt">AP<sub>l</sub></span></span><span lang="EN-US" style="font-size:9.0pt"><o:p></o:p></span></p>
   </td>
   <td width="37" valign="top" style="width:27.9pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
@@ -1942,6 +1944,7 @@ Results on COCO val
  </tr>
 </tbody></table>
 
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
 
 <table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
  mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt">
@@ -1958,37 +1961,37 @@ Results on COCO val
   <td width="90" valign="top" style="width:67.2pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
   solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal"><span lang="EN-US" style="font-size:9.0pt">Params(M)<o:p></o:p></span></p>
+  <p class="MsoNormal"><span lang="EN-US" style="font-size:9.0pt">Parameters(M)<o:p></o:p></span></p>
   </td>
   <td width="48" valign="top" style="width:36.0pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
   solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal"><span lang="EN-US" style="font-size:9.0pt">AP<sub>50</sub>(%)<o:p></o:p></span></p>
+  <p class="MsoNormal"><span lang="EN-US" style="font-size:9.0pt">AP<sub>50</sub><o:p></o:p></span></p>
   </td>
   <td width="48" valign="top" style="width:36.0pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
   solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal"><span lang="EN-US" style="font-size:9.0pt">AP<sub>75</sub>(%)<o:p></o:p></span></p>
+  <p class="MsoNormal"><span lang="EN-US" style="font-size:9.0pt">AP<sub>75</sub><o:p></o:p></span></p>
   </td>
   <td width="42" valign="top" style="width:31.25pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
   solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal"><span class="GramE"><span lang="EN-US" style="font-size:9.0pt">AP(</span></span><span lang="EN-US" style="font-size:9.0pt">%)<o:p></o:p></span></p>
+  <p class="MsoNormal"><span lang="EN-US" style="font-size:9.0pt">AP<o:p></o:p></span></p>
   </td>
   <td width="44" valign="top" style="width:33.1pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
   solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal"><span class="GramE"><span lang="EN-US" style="font-size:9.0pt">AP<sub>s</sub>(</span></span><span lang="EN-US" style="font-size:9.0pt">%)<o:p></o:p></span></p>
+  <p class="MsoNormal"><span lang="EN-US" style="font-size:9.0pt">AP<sub>s</sub><o:p></o:p></span></p>
   </td>
   <td width="47" valign="top" style="width:35.05pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
   solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal"><span class="SpellE"><span class="GramE"><span lang="EN-US" style="font-size:9.0pt">AP<sub>m</sub></span></span></span><span class="GramE"><span lang="EN-US" style="font-size:9.0pt">(</span></span><span lang="EN-US" style="font-size:9.0pt">%)<o:p></o:p></span></p>
+  <p class="MsoNormal"><span class="SpellE"><span lang="EN-US" style="font-size:9.0pt">AP<sub>m</sub></span></span><span lang="EN-US" style="font-size:9.0pt"><o:p></o:p></span></p>
   </td>
   <td width="43" valign="top" style="width:32.3pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
   solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal"><span class="SpellE"><span class="GramE"><span lang="EN-US" style="font-size:9.0pt">AP<sub>l</sub></span></span></span><span class="GramE"><span lang="EN-US" style="font-size:9.0pt">(</span></span><span lang="EN-US" style="font-size:9.0pt">%)<o:p></o:p></span></p>
+  <p class="MsoNormal"><span class="SpellE"><span lang="EN-US" style="font-size:9.0pt">AP<sub>l</sub></span></span><span lang="EN-US" style="font-size:9.0pt"><o:p></o:p></span></p>
   </td>
   <td width="37" valign="top" style="width:27.9pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
@@ -2363,4 +2366,7 @@ Results on COCO val
   </td>
  </tr>
 </tbody></table>
-<br />
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+</div>
