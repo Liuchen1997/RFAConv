@@ -28,12 +28,12 @@ We will disclose the full code once the paper has been accepted.
   <td width="48" valign="top" style="width:36.0pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
   solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal"><span lang="EN-US" style="font-size:9.0pt">Top1(%)<o:p></o:p></span></p>
+  <p class="MsoNormal"><span lang="EN-US" style="font-size:9.0pt">Top1<o:p></o:p></span></p>
   </td>
   <td width="48" valign="top" style="width:36.0pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
   solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal"><span lang="EN-US" style="font-size:9.0pt">Top5(%)<o:p></o:p></span></p>
+  <p class="MsoNormal"><span lang="EN-US" style="font-size:9.0pt">Top5<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style="mso-yfti-irow:1">
@@ -275,12 +275,12 @@ We will disclose the full code once the paper has been accepted.
   <td width="48" valign="top" style="width:36.0pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
   solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal"><span lang="EN-US" style="font-size:9.0pt">Top1(%)<o:p></o:p></span></p>
+  <p class="MsoNormal"><span lang="EN-US" style="font-size:9.0pt">Top1<o:p></o:p></span></p>
   </td>
   <td width="48" valign="top" style="width:36.0pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
   solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal"><span lang="EN-US" style="font-size:9.0pt">Top5(%)<o:p></o:p></span></p>
+  <p class="MsoNormal"><span lang="EN-US" style="font-size:9.0pt">Top5<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style="mso-yfti-irow:1">
@@ -464,12 +464,12 @@ Results on Pascal VOC 2007+2012 test
   <td width="47" valign="top" style="width:35.0pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
   solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal"><span lang="EN-US" style="font-size:9.0pt">mAP50(%)<o:p></o:p></span></p>
+  <p class="MsoNormal"><span lang="EN-US" style="font-size:9.0pt">mAP50<o:p></o:p></span></p>
   </td>
   <td width="43" valign="top" style="width:32.25pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
   solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal"><span class="GramE"><span lang="EN-US" style="font-size:9.0pt">mAP(</span></span><span lang="EN-US" style="font-size:9.0pt">%)<o:p></o:p></span></p>
+  <p class="MsoNormal"><span class="GramE"><span lang="EN-US" style="font-size:9.0pt">mAP</span></span><span lang="EN-US" style="font-size:9.0pt"><o:p></o:p></span></p>
   </td>
   <td width="37" valign="top" style="width:27.9pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
@@ -685,12 +685,12 @@ Results on Pascal VOC 2007+2012 test
   <td width="47" valign="top" style="width:35.05pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
   solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal"><span lang="EN-US" style="font-size:9.0pt">mAP50(%)<o:p></o:p></span></p>
+  <p class="MsoNormal"><span lang="EN-US" style="font-size:9.0pt">mAP50<o:p></o:p></span></p>
   </td>
   <td width="43" valign="top" style="width:32.3pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
   solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal"><span class="GramE"><span lang="EN-US" style="font-size:9.0pt">mAP(</span></span><span lang="EN-US" style="font-size:9.0pt">%)<o:p></o:p></span></p>
+  <p class="MsoNormal"><span class="GramE"><span lang="EN-US" style="font-size:9.0pt">mAP</span></span><span lang="EN-US" style="font-size:9.0pt"><o:p></o:p></span></p>
   </td>
   <td width="37" valign="top" style="width:27.9pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
@@ -980,12 +980,12 @@ Results on Pascal VOC 2007+2012 test
   <td width="47" valign="top" style="width:35.0pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
   solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal"><span lang="EN-US" style="font-size:9.0pt">mAP50(%)<o:p></o:p></span></p>
+  <p class="MsoNormal"><span lang="EN-US" style="font-size:9.0pt">mAP50<o:p></o:p></span></p>
   </td>
   <td width="43" valign="top" style="width:32.25pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
   solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal"><span class="GramE"><span lang="EN-US" style="font-size:9.0pt">mAP(</span></span><span lang="EN-US" style="font-size:9.0pt">%)<o:p></o:p></span></p>
+  <p class="MsoNormal"><span class="GramE"><span lang="EN-US" style="font-size:9.0pt">mAP</span></span><span lang="EN-US" style="font-size:9.0pt"><o:p></o:p></span></p>
   </td>
   <td width="37" valign="top" style="width:27.9pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
@@ -1201,12 +1201,12 @@ Results on Pascal VOC 2007+2012 test
   <td width="47" valign="top" style="width:35.0pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
   solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal"><span lang="EN-US" style="font-size:9.0pt">mAP50(%)<o:p></o:p></span></p>
+  <p class="MsoNormal"><span lang="EN-US" style="font-size:9.0pt">mAP50<o:p></o:p></span></p>
   </td>
   <td width="43" valign="top" style="width:32.25pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
   solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal"><span class="GramE"><span lang="EN-US" style="font-size:9.0pt">mAP(</span></span><span lang="EN-US" style="font-size:9.0pt">%)<o:p></o:p></span></p>
+  <p class="MsoNormal"><span class="GramE"><span lang="EN-US" style="font-size:9.0pt">mAP</span></span><span lang="EN-US" style="font-size:9.0pt"><o:p></o:p></span></p>
   </td>
   <td width="37" valign="top" style="width:27.9pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
