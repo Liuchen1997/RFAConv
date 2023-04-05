@@ -1,7 +1,7 @@
 # RAFConv
 This repository is a PyTorch implementation of our  paper:
 
-We will disclose the full code once the paper has been accepted
+We will disclose the full code once the paper has been accepted.
 
 
 ****
