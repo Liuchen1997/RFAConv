@@ -1,5 +1,5 @@
 # RAFConv
-This repository is a PyTorch implementation of our  paper:
+This repository is a PyTorch implementation of our  paper:RFAConv: Innovating Spatital Attention and Standard Convolutional Operation
 
 We will disclose the full code once the paper has been accepted.
 
