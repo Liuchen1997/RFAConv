@@ -1,0 +1,72 @@
+2023-03-28 22:20:11,623 - __main__ - INFO - use 1 gpus
+2023-03-28 22:20:11,624 - __main__ - INFO - args: Namespace(accumulation_steps=1, batch_size=32, checkpoints='./models/original/resnet18', epochs=100, evaluate='F:\\class-test\\models\\orginal\\resnet18\\models\\latest.pth', input_image_size=224, log='./log/original/resnet18', lr=0.1, milestones=[30, 60, 90], momentum=0.9, network='resnet18', num_classes=1000, num_workers=8, pretrained=False, print_interval=3000, resume='./checkpoints/latest.pth', seed=0, weight_decay=0.0001)
+2023-03-28 22:20:11,624 - __main__ - INFO - start loading data
+2023-03-28 22:20:11,625 - __main__ - INFO - finish loading data
+2023-03-28 22:20:11,625 - __main__ - INFO - creating model 'resnet18'
+2023-03-28 22:20:11,900 - __main__ - INFO - model: 'resnet18', flops: 1.824G, params: 11.690M
+2023-03-28 22:20:11,900 - __main__ - INFO - conv1.weight,True
+2023-03-28 22:20:11,900 - __main__ - INFO - bn1.weight,True
+2023-03-28 22:20:11,900 - __main__ - INFO - bn1.bias,True
+2023-03-28 22:20:11,900 - __main__ - INFO - layer1.0.conv1.weight,True
+2023-03-28 22:20:11,901 - __main__ - INFO - layer1.0.bn1.weight,True
+2023-03-28 22:20:11,901 - __main__ - INFO - layer1.0.bn1.bias,True
+2023-03-28 22:20:11,901 - __main__ - INFO - layer1.0.conv2.weight,True
+2023-03-28 22:20:11,901 - __main__ - INFO - layer1.0.bn2.weight,True
+2023-03-28 22:20:11,901 - __main__ - INFO - layer1.0.bn2.bias,True
+2023-03-28 22:20:11,901 - __main__ - INFO - layer1.1.conv1.weight,True
+2023-03-28 22:20:11,901 - __main__ - INFO - layer1.1.bn1.weight,True
+2023-03-28 22:20:11,901 - __main__ - INFO - layer1.1.bn1.bias,True
+2023-03-28 22:20:11,902 - __main__ - INFO - layer1.1.conv2.weight,True
+2023-03-28 22:20:11,902 - __main__ - INFO - layer1.1.bn2.weight,True
+2023-03-28 22:20:11,902 - __main__ - INFO - layer1.1.bn2.bias,True
+2023-03-28 22:20:11,902 - __main__ - INFO - layer2.0.conv1.weight,True
+2023-03-28 22:20:11,902 - __main__ - INFO - layer2.0.bn1.weight,True
+2023-03-28 22:20:11,902 - __main__ - INFO - layer2.0.bn1.bias,True
+2023-03-28 22:20:11,902 - __main__ - INFO - layer2.0.conv2.weight,True
+2023-03-28 22:20:11,902 - __main__ - INFO - layer2.0.bn2.weight,True
+2023-03-28 22:20:11,902 - __main__ - INFO - layer2.0.bn2.bias,True
+2023-03-28 22:20:11,903 - __main__ - INFO - layer2.0.downsample.0.weight,True
+2023-03-28 22:20:11,903 - __main__ - INFO - layer2.0.downsample.1.weight,True
+2023-03-28 22:20:11,903 - __main__ - INFO - layer2.0.downsample.1.bias,True
+2023-03-28 22:20:11,903 - __main__ - INFO - layer2.1.conv1.weight,True
+2023-03-28 22:20:11,903 - __main__ - INFO - layer2.1.bn1.weight,True
+2023-03-28 22:20:11,903 - __main__ - INFO - layer2.1.bn1.bias,True
+2023-03-28 22:20:11,903 - __main__ - INFO - layer2.1.conv2.weight,True
+2023-03-28 22:20:11,903 - __main__ - INFO - layer2.1.bn2.weight,True
+2023-03-28 22:20:11,903 - __main__ - INFO - layer2.1.bn2.bias,True
+2023-03-28 22:20:11,904 - __main__ - INFO - layer3.0.conv1.weight,True
+2023-03-28 22:20:11,904 - __main__ - INFO - layer3.0.bn1.weight,True
+2023-03-28 22:20:11,904 - __main__ - INFO - layer3.0.bn1.bias,True
+2023-03-28 22:20:11,904 - __main__ - INFO - layer3.0.conv2.weight,True
+2023-03-28 22:20:11,904 - __main__ - INFO - layer3.0.bn2.weight,True
+2023-03-28 22:20:11,904 - __main__ - INFO - layer3.0.bn2.bias,True
+2023-03-28 22:20:11,904 - __main__ - INFO - layer3.0.downsample.0.weight,True
+2023-03-28 22:20:11,904 - __main__ - INFO - layer3.0.downsample.1.weight,True
+2023-03-28 22:20:11,905 - __main__ - INFO - layer3.0.downsample.1.bias,True
+2023-03-28 22:20:11,905 - __main__ - INFO - layer3.1.conv1.weight,True
+2023-03-28 22:20:11,905 - __main__ - INFO - layer3.1.bn1.weight,True
+2023-03-28 22:20:11,905 - __main__ - INFO - layer3.1.bn1.bias,True
+2023-03-28 22:20:11,905 - __main__ - INFO - layer3.1.conv2.weight,True
+2023-03-28 22:20:11,905 - __main__ - INFO - layer3.1.bn2.weight,True
+2023-03-28 22:20:11,905 - __main__ - INFO - layer3.1.bn2.bias,True
+2023-03-28 22:20:11,905 - __main__ - INFO - layer4.0.conv1.weight,True
+2023-03-28 22:20:11,905 - __main__ - INFO - layer4.0.bn1.weight,True
+2023-03-28 22:20:11,906 - __main__ - INFO - layer4.0.bn1.bias,True
+2023-03-28 22:20:11,906 - __main__ - INFO - layer4.0.conv2.weight,True
+2023-03-28 22:20:11,906 - __main__ - INFO - layer4.0.bn2.weight,True
+2023-03-28 22:20:11,906 - __main__ - INFO - layer4.0.bn2.bias,True
+2023-03-28 22:20:11,906 - __main__ - INFO - layer4.0.downsample.0.weight,True
+2023-03-28 22:20:11,906 - __main__ - INFO - layer4.0.downsample.1.weight,True
+2023-03-28 22:20:11,906 - __main__ - INFO - layer4.0.downsample.1.bias,True
+2023-03-28 22:20:11,906 - __main__ - INFO - layer4.1.conv1.weight,True
+2023-03-28 22:20:11,907 - __main__ - INFO - layer4.1.bn1.weight,True
+2023-03-28 22:20:11,907 - __main__ - INFO - layer4.1.bn1.bias,True
+2023-03-28 22:20:11,907 - __main__ - INFO - layer4.1.conv2.weight,True
+2023-03-28 22:20:11,907 - __main__ - INFO - layer4.1.bn2.weight,True
+2023-03-28 22:20:11,907 - __main__ - INFO - layer4.1.bn2.bias,True
+2023-03-28 22:20:11,907 - __main__ - INFO - fc.weight,True
+2023-03-28 22:20:11,907 - __main__ - INFO - fc.bias,True
+2023-03-28 22:20:12,061 - __main__ - INFO - start only evaluating
+2023-03-28 22:20:12,062 - __main__ - INFO - start resuming model from F:\class-test\models\orginal\resnet18\models\latest.pth
+2023-03-28 22:24:14,293 - __main__ - INFO - epoch 100, top1 acc: 69.59%, top5 acc: 89.05%, throughput: 103.50sample/s
+
