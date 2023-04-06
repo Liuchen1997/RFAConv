@@ -1,0 +1,113 @@
+Overriding model.yaml nc=80 with nc=20
+                 from  n    params  module                                  arguments
+  0                -1  1      1760  models.common.Conv                      [3, 16, 6, 2, 2]
+  1                -1  1      4672  models.common.Conv                      [16, 32, 3, 2]
+  2                -1  1      4800  models.common.C3                        [32, 32, 1]
+  3                -1  1     18560  models.common.Conv                      [32, 64, 3, 2]
+  4                -1  2     29184  models.common.C3                        [64, 64, 2]
+  5                -1  1     73984  models.common.Conv                      [64, 128, 3, 2]
+  6                -1  3    156928  models.common.C3                        [128, 128, 3]
+  7                -1  1    295424  models.common.Conv                      [128, 256, 3, 2]
+  8                -1  1    296448  models.common.C3                        [256, 256, 1]
+  9                -1  1    164608  models.common.SPPF                      [256, 256, 5]
+ 10                -1  1     33024  models.common.Conv                      [256, 128, 1, 1]
+ 11                -1  1         0  torch.nn.modules.upsampling.Upsample    [None, 2, 'nearest']
+ 12           [-1, 6]  1         0  models.common.Concat                    [1]
+ 13                -1  1     90880  models.common.C3                        [256, 128, 1, False]
+ 14                -1  1      8320  models.common.Conv                      [128, 64, 1, 1]
+ 15                -1  1         0  torch.nn.modules.upsampling.Upsample    [None, 2, 'nearest']
+ 16           [-1, 4]  1         0  models.common.Concat                    [1]
+ 17                -1  1     22912  models.common.C3                        [128, 64, 1, False]
+ 18                -1  1     36992  models.common.Conv                      [64, 64, 3, 2]
+ 19          [-1, 14]  1         0  models.common.Concat                    [1]
+ 20                -1  1     74496  models.common.C3                        [128, 128, 1, False]
+ 21                -1  1    147712  models.common.Conv                      [128, 128, 3, 2]
+ 22          [-1, 10]  1         0  models.common.Concat                    [1]
+ 23                -1  1    296448  models.common.C3                        [256, 256, 1, False]
+ 24      [17, 20, 23]  1     33825  models.yolo.Detect                      [20, [[10, 13, 16, 30, 33, 23], [30, 61, 62, 45, 59, 119], [116, 90, 156, 198, 373, 326]], [64, 128, 256]]
+YOLOv5n summary: 214 layers, 1790977 parameters, 1790977 gradients, 4.3 GFLOPs
+[34m[1mAMP: [39m[22mchecks passed
+[34m[1moptimizer:[39m[22m SGD(lr=0.01) with parameter groups 57 weight(decay=0.0), 60 weight(decay=0.0005), 60 bias
+[34m[1mtrain: [39m[22mScanning 'F:\VOC2007txt\labels\train.cache' images and labels... 16551 found, 0 missing, 0 empty, 0 corrupt: 100%|██████████| 16551/16551 [00:00<?, ?it/s]
+[34m[1mval: [39m[22mScanning 'F:\VOC2007txt\labels\val.cache' images and labels... 4952 found, 0 missing, 0 empty, 0 corrupt: 100%|██████████| 4952/4952 [00:00<?, ?it/s]
+[34m[1mAutoAnchor: [39m[22m4.11 anchors/target, 1.000 Best Possible Recall (BPR). Current anchors are a good fit to dataset
+Plotting labels to runs\train\exp\labels.jpg...
+Image sizes 640 train, 640 val
+Using 8 dataloader workers
+Logging results to [1mruns\train\exp
+Starting training for 300 epochs...
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      0/299      3.71G     0.0934    0.04857    0.06978         31        640: 100%|██████████| 518/518 [01:17<00:00,  6.67it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 78/78 [00:25<00:00,  3.08it/s]
+                   all       4952      14976    0.00081     0.0272   0.000503   0.000114
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

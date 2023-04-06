@@ -1,0 +1,27 @@
+2023-03-07 21:52:55,189 INFO    MainThread:3384 [wandb_setup.py:_flush():76] Loading settings from C:\Users\HP\.config\wandb\settings
+2023-03-07 21:52:55,189 INFO    MainThread:3384 [wandb_setup.py:_flush():76] Loading settings from F:\CVPR\yolov5-master\wandb\settings
+2023-03-07 21:52:55,189 INFO    MainThread:3384 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2023-03-07 21:52:55,189 INFO    MainThread:3384 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'train.py', 'program': 'F:/CVPR/yolov5-master/train.py'}
+2023-03-07 21:52:55,190 INFO    MainThread:3384 [wandb_setup.py:_flush():76] Applying login settings: {'login_timeout': 30}
+2023-03-07 21:52:55,190 INFO    MainThread:3384 [wandb_init.py:_log_setup():428] Logging user logs to F:\CVPR\yolov5-master\wandb\run-20230307_215255-ynqj7ir8\logs\debug.log
+2023-03-07 21:52:55,190 INFO    MainThread:3384 [wandb_init.py:_log_setup():429] Logging internal logs to F:\CVPR\yolov5-master\wandb\run-20230307_215255-ynqj7ir8\logs\debug-internal.log
+2023-03-07 21:52:55,190 INFO    MainThread:3384 [wandb_init.py:init():462] calling init triggers
+2023-03-07 21:52:55,190 INFO    MainThread:3384 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {'weights': '', 'cfg': 'F:\\CVPR\\yolov5-master\\models\\yolov5n.yaml', 'data': 'F:\\CVPR\\yolov5-master\\data\\VOC.yaml', 'hyp': {'lr0': 0.01, 'lrf': 0.01, 'momentum': 0.937, 'weight_decay': 0.0005, 'warmup_epochs': 3.0, 'warmup_momentum': 0.8, 'warmup_bias_lr': 0.1, 'box': 0.05, 'cls': 0.5, 'cls_pw': 1.0, 'obj': 1.0, 'obj_pw': 1.0, 'iou_t': 0.2, 'anchor_t': 4.0, 'fl_gamma': 0.0, 'hsv_h': 0.015, 'hsv_s': 0.7, 'hsv_v': 0.4, 'degrees': 0.0, 'translate': 0.1, 'scale': 0.5, 'shear': 0.0, 'perspective': 0.0, 'flipud': 0.0, 'fliplr': 0.5, 'mosaic': 1.0, 'mixup': 0.0, 'copy_paste': 0.0}, 'epochs': 300, 'batch_size': 32, 'imgsz': 640, 'rect': False, 'resume': False, 'nosave': False, 'noval': False, 'noautoanchor': False, 'noplots': False, 'evolve': None, 'bucket': '', 'cache': None, 'image_weights': False, 'device': '', 'multi_scale': False, 'single_cls': False, 'optimizer': 'SGD', 'sync_bn': False, 'workers': 8, 'project': 'runs\\train', 'name': 'exp', 'exist_ok': False, 'quad': False, 'cos_lr': False, 'label_smoothing': 0.0, 'patience': 100, 'freeze': [0], 'save_period': -1, 'seed': 0, 'local_rank': -1, 'entity': None, 'upload_dataset': False, 'bbox_interval': -1, 'artifact_alias': 'latest', 'save_dir': 'runs\\train\\exp'}
+2023-03-07 21:52:55,190 INFO    MainThread:3384 [wandb_init.py:init():515] starting backend
+2023-03-07 21:52:55,190 INFO    MainThread:3384 [backend.py:_multiprocessing_setup():97] multiprocessing start_methods=spawn, using: spawn
+2023-03-07 21:52:55,194 INFO    MainThread:3384 [backend.py:ensure_launched():217] starting backend process...
+2023-03-07 21:52:55,279 INFO    MainThread:3384 [backend.py:ensure_launched():222] started backend process with pid: 134368
+2023-03-07 21:52:55,280 INFO    MainThread:3384 [wandb_init.py:init():525] backend started and connected
+2023-03-07 21:52:55,282 INFO    MainThread:3384 [wandb_init.py:init():596] updated telemetry
+2023-03-07 21:52:55,283 INFO    MainThread:3384 [wandb_init.py:init():627] communicating run to backend with 30 second timeout
+2023-03-07 21:52:59,225 INFO    MainThread:3384 [wandb_run.py:_on_init():1924] communicating current version
+2023-03-07 21:52:59,977 INFO    MainThread:3384 [wandb_run.py:_on_init():1928] got version response upgrade_message: "wandb version 0.13.10 is available!  To upgrade, please run:\n $ pip install wandb --upgrade"
+
+2023-03-07 21:52:59,977 INFO    MainThread:3384 [wandb_init.py:init():662] starting run threads in backend
+2023-03-07 21:53:05,002 INFO    MainThread:3384 [wandb_run.py:_console_start():1898] atexit reg
+2023-03-07 21:53:05,003 INFO    MainThread:3384 [wandb_run.py:_redirect():1771] redirect: SettingsConsole.WRAP
+2023-03-07 21:53:05,004 INFO    MainThread:3384 [wandb_run.py:_redirect():1808] Wrapping output streams.
+2023-03-07 21:53:05,006 INFO    MainThread:3384 [wandb_run.py:_redirect():1832] Redirects installed.
+2023-03-07 21:53:05,006 INFO    MainThread:3384 [wandb_init.py:init():688] run started, returning control to user process
+2023-03-07 21:53:05,015 INFO    MainThread:3384 [wandb_run.py:_config_callback():1136] config_cb None None {'data_dict': {'path': 'F:/VOC2007txt', 'train': 'F:\\VOC2007txt\\images\\train', 'val': 'F:\\VOC2007txt\\images\\val', 'test': 'F:\\VOC2007txt\\images\\test', 'names': {0: 'aeroplane', 1: 'bicycle', 2: 'bird', 3: 'boat', 4: 'bottle', 5: 'bus', 6: 'car', 7: 'cat', 8: 'chair', 9: 'cow', 10: 'diningtable', 11: 'dog', 12: 'horse', 13: 'motorbike', 14: 'person', 15: 'pottedplant', 16: 'sheep', 17: 'sofa', 18: 'train', 19: 'tvmonitor'}, 'nc': 20}}
