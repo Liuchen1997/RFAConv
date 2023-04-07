@@ -2368,9 +2368,7 @@ Results on COCO val
   </td>
  </tr>
 </tbody></table>
-
 <p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-
 </div>
 
 ### Citation
