@@ -442,7 +442,7 @@ In the detection experiment, the yolov5&yolov8 code comes from https://github.co
   </td>
  </tr>
 </tbody></table>
-<br />
+
 
 
 ## Object detection
@@ -1403,7 +1403,6 @@ Results on Pascal VOC 2007+2012 test
   </td>
  </tr>
 </tbody></table>
-<br />
 
 Results on COCO val
 <div class="WordSection1" style="layout-grid:15.6pt">
