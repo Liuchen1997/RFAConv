@@ -2375,6 +2375,7 @@ Results on COCO val
 </div>
 
 **Citation**
+
 You may want to cite:
 
 @misc{zhang2023rfaconv,
