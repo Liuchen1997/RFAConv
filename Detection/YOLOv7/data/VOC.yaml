@@ -1,0 +1,9 @@
+path: F:/VOC2007txt # dataset root dir
+train: F:/VOC2007txt/images/train  # train images (relative to 'path')  6471 images
+val: F:/VOC2007txt/images/val  # val images (relative to 'path')  548 images
+test: F:/VOC2007txt/images/test  # test images (optional)  1610 images
+
+nc: 20
+# Classes
+names: ['aeroplane','bicycle','bird','boat','bottle','bus','car','cat','chair','cow','diningtable','dog',
+         'horse','motorbike','person','pottedplant','sheep','sofa','train','tvmonitor']
