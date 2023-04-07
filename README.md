@@ -3,7 +3,7 @@ This repository is a PyTorch implementation of our  paper: RFAConv: Innovating S
 
 We will disclose the full code once the paper has been accepted.
 
-In the classification experiment, the code for the Resnet network model comes from https://github.com/zgcr/pytorch-ImageNet-CIFAR-COCO-VOC-training
+In the classification experiment, the code for Resnet comes from https://github.com/zgcr/pytorch-ImageNet-CIFAR-COCO-VOC-training
 
 In the detection experiment, the yolov5&yolov8 code comes from https://github.com/ultralytics/yolov5, and the yolov7 code comes from https://github.com/WongKinYiu/yolov7.
 
