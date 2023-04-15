@@ -2371,7 +2371,7 @@ Results on COCO val
 <p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
 </div>
 
-### Citation
+### Citatio
 
 You may want to cite:
 
