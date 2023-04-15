@@ -9,7 +9,7 @@ In the detection experiment, the YOLOv5&YOLOv8 code comes from https://github.co
 
 ****
 
-## Numerical results on Image
+## Numerical results on ImageNet
 
 <table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
  mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt">
