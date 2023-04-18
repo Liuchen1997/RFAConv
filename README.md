@@ -1917,7 +1917,7 @@ Results on COCO val
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal"><span lang="EN-US" style="font-size:9.0pt">37.4<o:p></o:p></span></p>
+  <p class="MsoNormal"><span lang="EN-US" style="font-size:9.0pt">37.1<o:p></o:p></span></p>
   </td>
   <td width="44" valign="top" style="width:33.1pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -1929,7 +1929,7 @@ Results on COCO val
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal"><span lang="EN-US" style="font-size:9.0pt">40.1<o:p></o:p></span></p>
+  <p class="MsoNormal"><span lang="EN-US" style="font-size:9.0pt">41.1<o:p></o:p></span></p>
   </td>
   <td width="43" valign="top" style="width:32.3pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
