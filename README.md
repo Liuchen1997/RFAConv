@@ -1239,7 +1239,7 @@ Results on Pascal VOC 2007+2012 validation sets
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal"><span lang="EN-US" style="font-size:9.0pt">74.4<o:p></o:p></span></p>
+  <p class="MsoNormal"><span lang="EN-US" style="font-size:9.0pt">74.0<o:p></o:p></span></p>
   </td>
   <td width="43" valign="top" style="width:32.25pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
