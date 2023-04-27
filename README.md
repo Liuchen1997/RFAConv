@@ -2378,7 +2378,7 @@ You may want to cite:
 
 ```
 @misc{zhang2023rfaconv,
-      title={RFAConv: Innovating Spatital Attention and Standard Convolutional Operation}, 
+      title={RFAConv: Innovating Spatial Attention and Standard Convolutional Operation}, 
       author={Xin Zhang and Chen Liu and Degang Yang and Tingting Song and Yichen Ye and Ke Li and Yingze Song},
       year={2023},
       eprint={2304.03198},
