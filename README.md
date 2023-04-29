@@ -2371,7 +2371,7 @@ In the detection experiment, the YOLOv5&YOLOv8 code comes from https://github.co
 <p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
 </div>
 
-
+/**
 ## Results on VisDrone-DET2021 validation sets
 <table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
  mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt">
@@ -2556,7 +2556,7 @@ In the detection experiment, the YOLOv5&YOLOv8 code comes from https://github.co
  </tr>
 </tbody></table>
 
-
+**/
 ### Citation
 # You may want to cite:
 
