@@ -2372,7 +2372,7 @@ Results on COCO val
 </div>
 
 
-Results on Pascal VisDrone VisDrone-DET2021 validation sets
+Results on VisDrone VisDrone-DET2021 validation sets
 <table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
  mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt">
  <tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes">
