@@ -2373,7 +2373,6 @@ Results on COCO val
 
 
 ### Citation
-
 You may want to cite:
 
 ```
