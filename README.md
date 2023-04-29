@@ -2480,6 +2480,43 @@ In the detection experiment, the YOLOv5&YOLOv8 code comes from https://github.co
   <p class="MsoNormal"><span lang="EN-US" style="font-size:9.0pt">-<o:p></o:p></span></p>
   </td>
  </tr>
+  <tr style="mso-yfti-irow:4">
+  <td width="92" valign="top" style="width:69.15pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal"><span lang="EN-US" style="font-size:9.0pt">+<span class="SpellE">RFCBAMConv</span>(r)<o:p></o:p></span></p>
+  </td>
+  <td width="63" valign="top" style="width:47.05pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal"><span lang="EN-US" style="font-size:9.0pt">4.5<o:p></o:p></span></p>
+  </td>
+  <td width="90" valign="top" style="width:67.3pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal"><span lang="EN-US" style="font-size:9.0pt">1.8<o:p></o:p></span></p>
+  </td>
+  <td width="47" valign="top" style="width:35.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal"><span lang="EN-US" style="font-size:9.0pt">28.0<o:p></o:p></span></p>
+  </td>
+  <td width="43" valign="top" style="width:32.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal"><span lang="EN-US" style="font-size:9.0pt">14.3<o:p></o:p></span></p>
+  </td>
+  <td width="37" valign="top" style="width:27.9pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal"><span lang="EN-US" style="font-size:9.0pt">-<o:p></o:p></span></p>
+  </td>
+ </tr>
  <tr style="mso-yfti-irow:3">
   <td width="92" valign="top" style="width:69.15pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
@@ -2509,43 +2546,6 @@ In the detection experiment, the YOLOv5&YOLOv8 code comes from https://github.co
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
   <p class="MsoNormal"><span lang="EN-US" style="font-size:9.0pt">13.9<o:p></o:p></span></p>
-  </td>
-  <td width="37" valign="top" style="width:27.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal"><span lang="EN-US" style="font-size:9.0pt">-<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style="mso-yfti-irow:4">
-  <td width="92" valign="top" style="width:69.15pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal"><span lang="EN-US" style="font-size:9.0pt">+<span class="SpellE">RFCBAMConv</span>(r)<o:p></o:p></span></p>
-  </td>
-  <td width="63" valign="top" style="width:47.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal"><span lang="EN-US" style="font-size:9.0pt">4.5<o:p></o:p></span></p>
-  </td>
-  <td width="90" valign="top" style="width:67.3pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal"><span lang="EN-US" style="font-size:9.0pt">1.8<o:p></o:p></span></p>
-  </td>
-  <td width="47" valign="top" style="width:35.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal"><span lang="EN-US" style="font-size:9.0pt">28.0<o:p></o:p></span></p>
-  </td>
-  <td width="43" valign="top" style="width:32.25pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal"><span lang="EN-US" style="font-size:9.0pt">14.3<o:p></o:p></span></p>
   </td>
   <td width="37" valign="top" style="width:27.9pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
