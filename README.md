@@ -1,6 +1,6 @@
 # RAFConv: Innovating Spatial Attention and Standard Convolutional Operation([preprint](https://doi.org/10.48550/arXiv.2304.03198))
 This repository is a PyTorch implementation of our  paper: RFAConv: Innovating Spatial Attention and Standard Convolutional Operation.
-
+The code has been opened, thank you for your support.
 In the classification experiment, the code for Resnet comes from https://github.com/zgcr/pytorch-ImageNet-CIFAR-COCO-VOC-training
 
 In the detection experiment, the YOLOv5&YOLOv8 code comes from https://github.com/ultralytics/yolov5, and the YOLOv7 code comes from https://github.com/WongKinYiu/yolov7.
