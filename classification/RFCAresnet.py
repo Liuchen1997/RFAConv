@@ -19,7 +19,6 @@ model_urls = {
     'resnet50': '',
 }
 
-# form CVPR2012
 class h_sigmoid(nn.Module):
     def __init__(self, inplace=True):
         super(h_sigmoid, self).__init__()
