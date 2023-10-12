@@ -1,6 +1,6 @@
 # YOLOv5 🚀 by Ultralytics, GPL-3.0 license
 
-# Parameters + CAConv
+# Parameters + NovelConv (RFAConv,RFCBAMConv,RFCAConv,CAConv,CBAMConv...)
 nc: 20  # number of classes
 depth_multiple: 0.33  # model depth multiple
 width_multiple: 0.25  # layer channel multiple
