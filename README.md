@@ -12,7 +12,7 @@ The pre-training weights of the model on ImageNet-1k can be found in https://pan
 
 ****
 ## V5 Fig.4 was revised.
-We apologise that there were some minor issues with Fig 4 provided in previous versions. We deeply apologise.
+We apologise that there are some minor issues with Fig 4 provided in previous versions. We deeply apologise.
 ![image](https://github.com/Liuchen1997/RFAConv/assets/54203800/8b21db79-92cc-4d4e-818d-5ac7798e8550)
 
 
