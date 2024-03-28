@@ -11,10 +11,6 @@ In the detection experiment, the YOLOv5&YOLOv8 code comes from https://github.co
 The pre-training weights of the model on ImageNet-1k can be found in https://pan.baidu.com/s/1kvPyLie0OeOB2CGQxdUT0g. The verification code is "rfac".
 
 ****
-## Fig.4 have been revised in Version 6.
-We apologise that there are some minor issues with Fig 4 provided in previous versions. We deeply apologise.
-![image](https://github.com/Liuchen1997/RFAConv/assets/54203800/8b21db79-92cc-4d4e-818d-5ac7798e8550)
-
 
 ## Numerical results on ImageNet
 
