@@ -1,4 +1,4 @@
-# RAFConv: Innovating Spatial Attention and Standard Convolutional Operation([preprint](https://doi.org/10.48550/arXiv.2304.03198))
+# RFAConv: Innovating Spatial Attention and Standard Convolutional Operation([preprint](https://doi.org/10.48550/arXiv.2304.03198))
 This repository is a PyTorch implementation of our  paper: RFAConv: Innovating Spatial Attention and Standard Convolutional Operation.
 # If you are interested in our other work, you can find information on https://github.com/CV-ZhangXin/LDConv.
 The code has been opened, thank you for your support.
