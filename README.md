@@ -13,7 +13,7 @@ The pre-training weights of the model on ImageNet-1k can be found in https://pan
 ****
 
 # Training environment
-
+The equipment for all experiments are based on RTX3090. In the classification experiments, we use four RTX3090 to train the model in parallel. In the experiments, Cuda version and Pytroch version are 11.1 and 1.8.1, respectively.
 
 
 ## Numerical results on ImageNet
