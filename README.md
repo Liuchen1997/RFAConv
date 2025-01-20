@@ -19,7 +19,6 @@ All modles are trained on RTX3090. Cuda version, Pytroch and Python version are 
 ## Config
 - config.py
 ```shell
-    network = "resnet18"
     num_classes = 1000
     input_image_size = 224
     epochs = 100
@@ -28,7 +27,7 @@ All modles are trained on RTX3090. Cuda version, Pytroch and Python version are 
 ```
 ## Train
 ```shell
-    python train.py
+    python train.py --network resnet18|
 ```
 ##    
 # Object Detection
