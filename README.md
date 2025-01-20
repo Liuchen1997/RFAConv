@@ -21,7 +21,6 @@ All modles are trained on RTX3090. Cuda version, Pytroch and Python version are 
 ```shell
     network = "resnet18"
     num_classes = 1000
-    seed = 0
     input_image_size = 224
     epochs = 100
     batch_size = 128
