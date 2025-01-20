@@ -24,6 +24,7 @@ All modles are trained on RTX3090. Cuda version, Pytroch and Python version are 
     epochs = 100
     batch_size = 128
     lr = 0.1
+    ILSVRC2012_path = $DATA_ROOT
 ```
 ## Train
 ```shell
