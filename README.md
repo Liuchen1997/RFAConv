@@ -12,23 +12,38 @@ The pre-training weights of the model on ImageNet-1k can be found in https://pan
 
 ****
 
+
+### Patching
+`--preset` [bwh_biopsy.csv](https://github.com/mahmoodlab/CLAM/blob/master/presets/bwh_biopsy.csv) for Camlyon (*It's the preset parameters officially provided by CLAM*), `--preset` [preprocess_tcga_nsclc.csv](dataset_csv/preprocess_tcga_nsclc.csv) for TCGA-NSCLS (*It's the customized parameters*), `--preset` [tcga.csv](https://github.com/mahmoodlab/CLAM/blob/master/presets/tcga.csv) for other TCGA-BRCA (*It's the preset parameters officially provided by CLAM*)
+```shell
+# for Camlyon
+python create_patches_fp.py --source DATA_DIRECTORY --save_dir RESULTS_DIRECTORY --patch_size 512 \
+--step_size 512 --preset bwh_biopsy.csv --seg --patch
+# for TCGA-NSCLC
+python create_patches_fp.py --source DATA_DIRECTORY --save_dir RESULTS_DIRECTORY --patch_size 512 \
+--step_size 512 --preset preprocess_tcga_nsclc.csv --seg --patch
+```
+
+
 # Training environment
 All modles are trained on RTX3090. Cuda version, Pytroch and Python version are 11.1, 1.8.1 and 3.8, respectively.
 
 # Classfication 
-## Construct Models
-
-
 ## Train
-
+    network = "resnet18"
+    pretrained = False
+    num_classes = 1000
+    seed = 0
+    input_image_size = 224
 
 # Object Detection
-## Construct Models
+## Config
+
 
 ## Train
+python train.py --netwrok resnet34
 
 
-# semantic segmentation
 
 ## Numerical results on ImageNet
 
