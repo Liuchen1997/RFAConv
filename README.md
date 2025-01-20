@@ -17,7 +17,7 @@ All modles are trained on RTX3090. Cuda version, Pytroch and Python version are 
 
 # Classfication 
 ## Config
--config.py
+- config.py
 ```shell
     network = "resnet18"
     pretrained = False
