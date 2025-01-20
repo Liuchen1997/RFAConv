@@ -37,7 +37,7 @@ class Config(object):
 
     milestones = [30, 60, 90]
     epochs = 100
-    batch_size = 32
+    batch_size = 128
     accumulation_steps = 1
     lr = 0.1
     weight_decay = 1e-4
