@@ -28,8 +28,10 @@ All modles are trained on RTX3090. Cuda version, Pytroch and Python version are 
 ## Train
 ```shell
     python train.py --network resnet18|resnet34
+    python CAMtrain.py --network CAMresnet18|CAMresnet34
+    ...
     python RFAtrain.py --network RFAresnet18|RFAresnet34
-    python CAtrain.py --network CAresnet18|CAresnet34
+   
 ```
 ##    
 # Object Detection
