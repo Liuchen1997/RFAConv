@@ -36,9 +36,8 @@ All modles are trained on RTX3090. Cuda version, Pytroch and Python version are 
 ```
    
 # Object Detection
-```shell
--  The yaml files for all networks are already available in the repository (yaml fiels)
-```
+-  yaml fiels
+The yaml files for all networks are already available in the repository 
 
 
 ## Train
