@@ -12,6 +12,10 @@ The pre-training weights of the model on ImageNet-1k can be found in https://pan
 
 ****
 
+# Training environment
+
+
+
 ## Numerical results on ImageNet
 
 <table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
