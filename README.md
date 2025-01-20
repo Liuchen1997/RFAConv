@@ -17,7 +17,9 @@ All modles are trained on RTX3090. Cuda version, Pytroch and Python version are 
 
 # Classfication 
 
+# Object Detection
 
+# semantic segmentation
 
 ## Numerical results on ImageNet
 
