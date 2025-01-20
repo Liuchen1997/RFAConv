@@ -12,11 +12,11 @@ The pre-training weights of the model on ImageNet-1k can be found in https://pan
 
 ****
 
-# Training environment
+## Training environment
 All modles are trained on RTX3090. Cuda version, Pytroch and Python version are 11.1, 1.8.1 and 3.8, respectively.
 
-# Classfication 
-## Config
+## Classfication 
+### Config
 - config.py
 ```shell
     num_classes = 1000
@@ -26,7 +26,7 @@ All modles are trained on RTX3090. Cuda version, Pytroch and Python version are 
     lr = 0.1
     ILSVRC2012_path = $DATA_ROOT
 ```
-## Train
+### Train
 ```shell
     python train.py --network resnet18|resnet34
     python CAMtrain.py --network CAMresnet18|CAMresnet34
@@ -35,15 +35,15 @@ All modles are trained on RTX3090. Cuda version, Pytroch and Python version are 
    
 ```
    
-# Object Detection
--  (Config yaml fiels) The yaml files for all networks are already available in the repository
--  (Registered components)  
-
-
-
-
-
-
+## Object Detection
+### Config
+-  (Config model yaml fiels) The yaml files for all networks are already available in the repository
+-  (Config data yaml fiels)  Same process as yolo configuration dataset
+-  (Registered components)  Register RFAConv as a component of the corresponding network, as configured for the YOLO series network
+### Train
+```shell
+    python train.py --cfg yaml_fiels --data data_yaml  --epoch 300  --workers 8  --batch_size 32
+```
 ## Numerical results on ImageNet
 
 <table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
