@@ -34,9 +34,11 @@ All modles are trained on RTX3090. Cuda version, Pytroch and Python version are 
     python RFAtrain.py --network RFAresnet18|RFAresnet34
    
 ```
-##    
+   
 # Object Detection
-## Config
+```shell
+-  The yaml files for all networks are already available in the repository (yaml fiels)
+```
 
 
 ## Train
