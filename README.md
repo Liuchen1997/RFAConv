@@ -16,16 +16,7 @@ The pre-training weights of the model on ImageNet-1k can be found in https://pan
 All modles are trained on RTX3090. Cuda version, Pytroch and Python version are 11.1, 1.8.1 and 3.8, respectively.
 
 # Classfication 
-COCO2017
-|                |----captions_train2017.json
-|                |----captions_val2017.json
-|--annotations---|----instances_train2017.json
-|                |----instances_val2017.json
-|                |----person_keypoints_train2017.json
-|                |----person_keypoints_val2017.json
-|                 
-|                |----train2017
-|----images------|----val2017
+
 
 
 ## Numerical results on ImageNet
