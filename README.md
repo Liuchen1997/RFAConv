@@ -16,12 +16,14 @@ The pre-training weights of the model on ImageNet-1k can be found in https://pan
 All modles are trained on RTX3090. Cuda version, Pytroch and Python version are 11.1, 1.8.1 and 3.8, respectively.
 
 # Classfication 
-## Train
+## Config
+-config.py
     network = "resnet18"
     pretrained = False
     num_classes = 1000
     seed = 0
     input_image_size = 224
+##    
 # Object Detection
 ## Config
 
